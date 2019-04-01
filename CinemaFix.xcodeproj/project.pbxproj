@@ -91,8 +91,6 @@
 		61EAC409224E639100642633 = {
 			isa = PBXGroup;
 			children = (
-				61EAC457224E94A300642633 /* CMovieDetailController.swift */,
-				61EAC453224E727000642633 /* Video.swift */,
 				61EAC414224E639100642633 /* CinemaFix */,
 				61EAC429224E639200642633 /* CinemaFixTests */,
 				61EAC434224E639200642633 /* CinemaFixUITests */,
@@ -113,6 +111,8 @@
 		61EAC414224E639100642633 /* CinemaFix */ = {
 			isa = PBXGroup;
 			children = (
+				61EAC457224E94A300642633 /* CMovieDetailController.swift */,
+				61EAC453224E727000642633 /* Video.swift */,
 				61EAC415224E639100642633 /* AppDelegate.swift */,
 				61EAC417224E639100642633 /* ViewController.swift */,
 				61EAC419224E639100642633 /* Main.storyboard */,
